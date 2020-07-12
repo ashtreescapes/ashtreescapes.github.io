@@ -1,8 +1,19 @@
 ---
+layout: single
+title: About
 permalink: /about/
-title: "About"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Aim
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Elucidate the key epidemiological and behavioural factors that govern the invasion and spread of multiple threats to tree health and so determine how to develop successful surveillance and management at a whole system level, rather than on a pest by pest basis.
+
+## Objectives
+
+1. Develop a spatially explicit model of the spread of ADB and EAB at UK scale suitable to assess large-scale surveillance and predict the effect of control measures. The model will represent the host and potential points of entry for EAB
+2. Carry out extensive social research on multi-stakeholder values, actions and acceptability of EAB management options in order to develop an agent-based model of stakeholder behaviours (social dynamics model).  
+3. Link the epidemiological model to the social dynamics model and use this to elucidate the factors that make robust surveillance networks and effective strategies for the management of ash trees.
+4. Delivery of research results. 
