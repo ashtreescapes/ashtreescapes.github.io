@@ -1,0 +1,14 @@
+Vasthi Alonso:
+  name        : "Vasthi Alonso Chavez"
+  bio         : "Development of mathematical and epidemiological models"
+  avatar      : "https://www.rothamsted.ac.uk/sites/default/files/person-profile-images/vasthi-alonso-chavez.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vasthi.alonso-chavez@rothamsted.ac.uk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.rothamsted.ac.uk/our-people/vasthi-alonso-chavez"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/VasthiAlonso"
