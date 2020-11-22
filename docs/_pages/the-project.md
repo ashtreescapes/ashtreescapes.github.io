@@ -1,7 +1,7 @@
 ---
 layout: single
-title: About
-permalink: /about/
+title: The project
+permalink: /project/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
