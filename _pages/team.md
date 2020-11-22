@@ -29,7 +29,6 @@ Epidemiological modeller at Rothamsted Research
 Forest epidemiologist at Forest Research and Rothamsted Research
 
 
-
 ## Social Scientists
 
 ### Mariella Marzano 
@@ -44,10 +43,6 @@ Head of Social and Economic Research Group at Forest Research
 [Profile](https://www.york.ac.uk/sei/staff/alison-dyke/#research-content){: .btn .btn--primary .btn--small .align-right}
 Community Scientist at University of York
 
-### Dave Williams 
-[Profile](https://www.forestresearch.gov.uk/staff/david-williams/){: .btn .btn--primary .btn--small .align-right}
-Entomologist at Forest Research
-
 ### Berglind Karlsd&#xF3;ttir 
 [Profile](https://www.forestresearch.gov.uk/staff/berglind-karlsdottir/){: .btn .btn--primary .btn--small .align-right}
 Social scientist at Forest Research
@@ -56,3 +51,8 @@ Social scientist at Forest Research
 [Profile](https://www.forestresearch.gov.uk/staff/clare-hall/){: .btn .btn--primary .btn--small .align-right}
 Behavioural Scientist at Forest Research
 
+## Entomologist
+
+### Dave Williams 
+[Profile](https://www.forestresearch.gov.uk/staff/david-williams/){: .btn .btn--primary .btn--small .align-right}
+Entomologist at Forest Research
