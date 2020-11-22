@@ -10,9 +10,17 @@ author_profile: false
 
 ## The problem
 
-We are focussing on two threats which impact on ash trees, one of the most common and valued tree species in the UK. Ash dieback has caused damage and loss to a high proportion of ash trees since its arrival in the UK in 2012. The second focus pest, emerald ash borer, is not currently known to be present in the UK but is spreading westwards from Moscow and into Ukraine as it “hitchhikes” on vehicles, in traded firewood and on live plants. In the United States, where emerald ash borer is an introduced species, it has caused the loss of hundreds of millions of trees. It is believed that if it arrives in the UK, it will pose a significant threat to our remaining ash trees due to their weakened state from ash dieback.
+Ash is one of the most common and valued tree species in the UK. In this project we are focusing on protecting and
+mitigating the effects of two serious threats to UK ash: ash dieback and the emerald ash borer. Ash dieback is
+a disease in ash that has caused damage and loss to a high proportion of ash trees since its arrival in the UK in 2012.
+The emerald ash borer is an insect pest and whilst adults cause little damage the  larvae feed on the inner bark of ash
+trees and so disrupt the tree's ability to transport water and nutrients. The emerald ash borer is not currently
+thought to be present in the UK but is spreading westwards from Russia and the Ukraine as it “hitchhikes” on vehicles,
+in traded firewood and on live plants. In the United States, where emerald ash borer is an introduced species, it has
+caused the loss of hundreds of millions of trees. It is believed that if it arrives in the UK, it will pose
+a significant threat to our remaining ash trees due to their weakened state from ash dieback.
 
-![the-problem](../assets/images/the_problem.png){: .full}
+![the-problem](../assets/images/problem.png){: .full}
 ## The project
 
 <p>The project, Surveillance and Management of multiple Risks to Treescapes: Integrating Epidemiology and Stakeholder behaviour, will investigate how individuals and stakeholder groups can influence the successful detection and management of multiple risks to tree health focusing on ash trees.</p>
