@@ -12,3 +12,12 @@ Vasthi Alonso:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/VasthiAlonso"
+
+Clare Hall:
+  name        : "Clare Hall"
+  bio         : "Behavioural Scientist at Forest Research"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.forestresearch.gov.uk/staff/clare-hall/"

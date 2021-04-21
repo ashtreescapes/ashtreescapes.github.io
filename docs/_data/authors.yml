@@ -1,4 +1,4 @@
-Vasthi Alonso:
+vasthi_alonso:
   name        : "Vasthi Alonso Chavez"
   bio         : "Development of mathematical and epidemiological models"
   avatar      : "https://www.rothamsted.ac.uk/sites/default/files/person-profile-images/vasthi-alonso-chavez.jpg"
@@ -12,3 +12,27 @@ Vasthi Alonso:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/VasthiAlonso"
+
+Billy Rick:
+  name        : "Billy Rick"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+clare_hall:
+  name        : "Clare Hall"
+  bio         : "Behavioural Scientist at Forest Research"
+  avatar      : "https://www.rothamsted.ac.uk/sites/default/files/person-profile-images/vasthi-alonso-chavez.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.forestresearch.gov.uk/staff/clare-hall/"
