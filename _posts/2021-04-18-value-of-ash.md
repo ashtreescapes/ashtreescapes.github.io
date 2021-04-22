@@ -18,7 +18,7 @@ the evidence and literature about ash trees that’s already out there. As part
 of this we’ve looked into topics such as what social, cultural, historic and
 personal values are associated with ash trees.
 
-{% include figure image_path="/assets/images/ash_in_landscape_nathan.jpg" caption='"Study of ash trees" by John Constable (1817) <br/>
+{% include figure image_path="/assets/images/e442e72e-6578-401c-8c26-3cb65c9650a0.jpg" caption='"Study of ash trees" by John Constable (1817) <br/>
  Drawing in Pencil & Paper - V&A collection' %}{: .align-left}
 What we’ve found is evidence from around the world of ash trees being mentioned
 in Norse mythology, British folklore, historic agricultural systems, place
