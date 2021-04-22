@@ -3,3 +3,5 @@ main:
     url: /project/
   - title: "Team"
     url: /team/
+  - title: "Updates"
+    url: /updates/
