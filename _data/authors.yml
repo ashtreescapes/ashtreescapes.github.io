@@ -1,7 +1,7 @@
 Vasthi Alonso:
   name        : "Vasthi Alonso Chavez"
   bio         : "Development of mathematical and epidemiological models"
-  avatar      : "https://www.rothamsted.ac.uk/sites/default/files/person-profile-images/vasthi-alonso-chavez.jpg"
+  avatar      : "/assets/authors/vasthi_alonso_chavez.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -12,3 +12,19 @@ Vasthi Alonso:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/VasthiAlonso"
+clare_hall:
+  name        : "Clare Hall"
+  bio         : "Behavioural Scientist at Forest Research"
+  avatar      : "/assets/authors/clare_hall.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.forestresearch.gov.uk/staff/clare-hall/"
+nathan_brown:
+  name        : "Nathan Brown"
+  bio         : "Forest epidemiologist at Forest Research and Rothamsted Research"
+  avatar      : "/assets/authors/nathan_brown.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.rothamsted.ac.uk/our-people/nathan-brown-0"
