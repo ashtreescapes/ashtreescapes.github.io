@@ -2,6 +2,8 @@
 title: "What's the value of an ash tree and why does it matter?"
 date: 2021-04-18T15:34:30+01:00
 author: clare_hall
+header:
+  teaser: "/assets/images/e442e72e-6578-401c-8c26-3cb65c9650a0.jpg"
 categories:
   - blog 
 tags:
