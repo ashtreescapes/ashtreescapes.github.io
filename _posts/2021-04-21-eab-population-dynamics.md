@@ -2,6 +2,8 @@
 title: "Emerald ash borer population dynamics"
 date: 2021-04-21T18:22:30+01:00
 author: Vasthi Alonso
+header:
+  teaser: "/assets/images/pop_dynamics.png"
 categories:
   - blog
 tags:
