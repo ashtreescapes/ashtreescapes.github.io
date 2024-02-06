@@ -12,6 +12,7 @@ Vasthi Alonso:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/VasthiAlonso"
+
 clare_hall:
   name        : "Clare Hall"
   bio         : "Behavioural Scientist at Forest Research"
@@ -20,6 +21,7 @@ clare_hall:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.forestresearch.gov.uk/staff/clare-hall/"
+
 nathan_brown:
   name        : "Nathan Brown"
   bio         : "Forest epidemiologist at Forest Research and Rothamsted Research"
@@ -28,3 +30,24 @@ nathan_brown:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.rothamsted.ac.uk/our-people/nathan-brown-0"
+
+berglind_karlsdottir:
+  name        : "Berglind Karlsd&#xF3;ttir"
+  bio         : "Social scientist at Forest Research"
+  avatar      : "/assets/authors/berglind_karlsdottir.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.forestresearch.gov.uk/staff/berglind-karlsdottir/"
+
+joanne_alison:
+  name        : "Joanne Morris, Alison Dyke"
+  bio         : "Joanne, a Sustainability Scientist, and Alison, a Community Scientist,
+                 both of the University of York"
+  links:
+    - label: "Joanne"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.york.ac.uk/sei/staff/joanne-morris/"
+    - label: "Alison"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.york.ac.uk/sei/staff/alison-dyke/#research-content"
