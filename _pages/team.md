@@ -13,21 +13,25 @@ author_profile: false
 Leader of epidemiological group at Rothamsted Research
 
 ### Stephen Parnell 
-[Profile](https://beta.salford.ac.uk/our-staff/stephen-parnell){: .btn .btn--primary .btn--small .align-right} 
-Reader in Spatial Epidemiology at University of Salford
+[Profile](https://warwick.ac.uk/fac/sci/lifesci/people/sparnell/){: .btn .btn--primary .btn--small .align-right}
+Associate Professor in plant disease epidemiology at Warwick
+University
 
 ### Frank van den Bosch 
-[Profile](https://research.curtin.edu.au/researcher/frank-van-den-bosch-e57b2ec7/){: .btn .btn--primary .btn--small .align-right}
-Post-doc at Salford University, UK and Associate Professor at Curtin University, Australia
+[Profile](https://www.ccdm.com.au/people/frank-van-den-bosch/){: .btn .btn--primary .btn--small .align-right}
+Plant epidemiologist and visiting scholar at UC Davis
 
 ### Vasthi Alonso Ch&#xE1;vez 
 [Profile](https://www.rothamsted.ac.uk/our-people/vasthi-alonso-chavez){: .btn .btn--primary .btn--small .align-right}
 Epidemiological modeller at Rothamsted Research
 
 ### Nathan Brown 
-[Profile](https://www.researchgate.net/profile/Nathan_Brown16){: .btn .btn--primary .btn--small .align-right}
-Forest epidemiologist at Forest Research and Rothamsted Research
+[Profile](https://www.researchgate.net/profile/Nathan-Brown-22){: .btn .btn--primary .btn--small .align-right}
+Environmental modeller at Forest Research – Forestry Commission UK
 
+### Matt Combes
+[Profile](https://www.linkedin.com/in/matthew-combes-389656239/?originalSubdomain=uk){: .btn .btn--primary .btn--small .align-right}
+Forest plant pathologist
 
 ## Social Scientists
 
@@ -50,6 +54,10 @@ Social scientist at Forest Research
 ### Clare Hall 
 [Profile](https://www.forestresearch.gov.uk/staff/clare-hall/){: .btn .btn--primary .btn--small .align-right}
 Behavioural Scientist at Forest Research
+
+### Joanne Morris 
+[Profile](https://www.york.ac.uk/sei/staff/joanne-morris/){: .btn .btn--primary .btn--small .align-right}
+Sustainability Scientist at SEI and the University of York
 
 ## Entomologist
 
