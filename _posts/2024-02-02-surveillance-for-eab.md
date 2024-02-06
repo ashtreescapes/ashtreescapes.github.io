@@ -3,7 +3,7 @@ title: "Surveillance for the Emerald Ash Borer in Great Britain"
 date: 2024-02-02T21:04:30+01:00
 author: Vasthi Alonso
 header:
-  teaser: "/assets/images/eab-surveillance.webp"
+  teaser: "/assets/images/e442e72e-6578-401c-8c26-3cb65c9650a0.jpg"
 categories:
   - blog
 tags:
@@ -16,8 +16,6 @@ The Emerald Ash Borer (EAB, _Agrilus planipennis_) is the most destructive pest 
 millions of trees in the USA, Canada, Russia, and parts of Eastern Europe. The alarming economic impact and widespread
 ecological devastation call for proactive measures to prevent its introduction into new regions of Europe including
 Great Britain, where the invasion risk is significant.
-
-{% include figure image_path="/assets/images/eab-surveillance.webp" alt="surveillance for the Emerald Ash Borer" %}
 
 ##### Identifying Potential Entry Points
 One major concern is the possible introduction of EAB into Great Britain through imported firewood from Eastern Europe.
@@ -77,9 +75,6 @@ communication, and adaptive strategies will be crucial for effective prevention 
 This approach not only provides a tool to help in the conservation of the ash tree population in GB but also provides a
 roadmap for GB and other regions subject to this threat as well as other invasive species.
 
-(map)
-
 In the map blue dots indicate areas where risk is greater than 1% under the scenario where 70% is from the ash wood
 distribution network and 30% from the firewood domestic use. Lighter areas represent higher risk and darker areas
 represent less “risky” areas. Riskier areas coincide with ports and urban areas where firewood burning is common.
-
