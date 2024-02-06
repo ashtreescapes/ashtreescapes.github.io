@@ -46,4 +46,3 @@ function. The protective capability of diverse woodlands was highlighted.
 
 Overall, participants were interested in the new information and hearing about other land managers’ experiences and
 perspectives.
-2024-02-02-surveillance-for-eab.md
